@@ -4,6 +4,8 @@ Applied programming techniques to deconstruct a 3D Grocery Shop to build a creat
 
 [![Deploy static content to Pages](https://github.com/cyruslauwork/A-3D-Grocery-Shop-using-ThreeJS/actions/workflows/static.yml/badge.svg)](https://github.com/cyruslauwork/A-3D-Grocery-Shop-using-ThreeJS/actions/workflows/static.yml)
 
+![3DGroceryShop](3DGroceryShop.png)
+
 Demo Video: https://www.youtube.com/watch?v=mO_ScP_HDs8
 
 Static Website (no backend connection): https://cyruslauwork.github.io/A-3D-Grocery-Shop-using-ThreeJS/

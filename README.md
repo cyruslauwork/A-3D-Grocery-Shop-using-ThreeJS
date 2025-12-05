@@ -1,5 +1,7 @@
 # A-3D-Grocery-Shop-using-ThreeJS
 
+Applied programming techniques to deconstruct a 3D Grocery Shop to build a creative browsing experience on an e-commerce site.
+
 [![Deploy static content to Pages](https://github.com/cyruslauwork/A-3D-Grocery-Shop-using-ThreeJS/actions/workflows/static.yml/badge.svg)](https://github.com/cyruslauwork/A-3D-Grocery-Shop-using-ThreeJS/actions/workflows/static.yml)
 
 Demo Video: https://www.youtube.com/watch?v=mO_ScP_HDs8
